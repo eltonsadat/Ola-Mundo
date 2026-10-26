@@ -38,7 +38,7 @@ Mês | Curso | Professor | Aulas
 :---: | ---: | :--- | :---:
 Outubro | Github | Elton | 12
 Novembro | Python | Matheus | 32
-Dezembro | Javascript | Dênis | 48
+Janeiro | Javascript | Dênis | 48
 ***
 
 

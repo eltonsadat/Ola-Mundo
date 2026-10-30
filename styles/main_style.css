@@ -1,0 +1,42 @@
+body{
+    background-color: #CBE590;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    margin-top: 10px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 35px;
+}
+
+p{
+    color: darkblue;
+    font-size: 20px;
+}
+
+table, tr, td, th{
+    width: 100%;
+    padding: 10px;
+}
+td, th{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+}
+th{
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+}
+.menu, .conteudo{
+    height: 200px;
+}
+.menu{
+    width: 20%;
+}
+.rodape{
+    background-color: white;
+}
